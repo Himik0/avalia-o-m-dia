@@ -1,1 +1,2 @@
-# avalia-o-m-dia
+# EfeitosSonorosRadioGremio
+Mesa de mídias com áudios para efeitos sonoros especiais da rádio Grêmio Estudantil
